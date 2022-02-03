@@ -78,7 +78,7 @@ If we use this api https://disease.sh/v3/covid-19/countries/india
   "criticalPerOneMillion": 6.38
 }
 ```
-
+> this is a 
 
 
 
