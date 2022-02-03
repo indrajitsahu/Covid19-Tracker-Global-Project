@@ -12,7 +12,7 @@ These two responses we can use for collecting global data or we can use country 
 
 I used this API as global data: https://disease.sh/v3/covid-19/all
 
-** Response: **
+**Response:**
 ```
 {
   "updated": 1643870376080,
@@ -45,7 +45,7 @@ I used this API as global data: https://disease.sh/v3/covid-19/countries. It wil
 
 If we use this api https://disease.sh/v3/covid-19/countries/india 
 
-** As a response we get: **
+**As a response we get:**
 ```
 {
   "updated": 1643870376082,
