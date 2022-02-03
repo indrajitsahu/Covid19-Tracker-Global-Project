@@ -4,13 +4,15 @@ This is a covid19-tracker API project helps to get the actual data around the gl
 
 API link --> https://corona.lmao.ninja/
 
-##Different types of responses:
+## Different types of responses:
 
-###For Globally Colleted Data
+These two responses we can use for collecting global data or we can use country specific data.
+
+### For Globally Colleted Data
 
 I used this API as global data: https://disease.sh/v3/covid-19/all
 
-**Response:**
+** Response: **
 ```
 {
   "updated": 1643870376080,
@@ -43,7 +45,7 @@ I used this API as global data: https://disease.sh/v3/covid-19/countries. It wil
 
 If we use this api https://disease.sh/v3/covid-19/countries/india 
 
-**As a response we get: **
+** As a response we get: **
 ```
 {
   "updated": 1643870376082,
@@ -78,7 +80,7 @@ If we use this api https://disease.sh/v3/covid-19/countries/india
   "criticalPerOneMillion": 6.38
 }
 ```
-> this is a 
+
 
 
 
