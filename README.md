@@ -39,7 +39,7 @@ I used this API as global data: https://disease.sh/v3/covid-19/all
 }
 ```
 
-###For Individual Country Data
+### For Individual Country Data
 
 I used this API as global data: https://disease.sh/v3/covid-19/countries. It will give all the 220+ countries data or the below link which just adds a country name after the link gives you that particular country data.
 
